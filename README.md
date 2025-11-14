@@ -64,7 +64,17 @@ GROUP BY p.product_id
 ORDER BY revenue DESC
 LIMIT 3;
 
-.gitignore
+
+📁 Linked Source Files
+File	                           Description
+scripts/generate_data.py	       Generates synthetic e-commerce CSVs
+scripts/ingest_to_sqlite.py 	   Loads CSVs into SQLite DB
+data/ (ignored in git)	           CSVs + SQLite DB created at runtime
+README.md	                       This documentation
+
+
+.gitignore explained
+
 To avoid pushing large or sensitive files:
 __pycache__/
 data/*.db
