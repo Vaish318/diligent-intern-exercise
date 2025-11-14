@@ -9,8 +9,6 @@ It demonstrates skills in Python, data generation, ETL pipelines, and SQL analyt
 ## 📁 Project Structure
 
 
-Project Structure
-
 ``` 
 diligent-intern-exercise/
 │
