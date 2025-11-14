@@ -1,0 +1,11 @@
+product_id,product_name,category_id,price,stock
+1,Thermal Jacket,1,23.38,150
+2,Bluetooth Headphones,2,89.78,387
+3,Coffee Maker,1,241.69,466
+4,Camping Tent,5,44.12,226
+5,Face Moisturizer,1,24.98,121
+6,Trail Running Shoes,2,184.29,23
+7,Wireless Charger,5,81.61,342
+8,Desk Lamp,5,155.54,239
+9,Sunglasses,5,108.19,455
+10,Backpack,1,269.2,91
